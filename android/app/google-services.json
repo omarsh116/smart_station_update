@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916399738082",
+    "project_id": "smartstation-652c9",
+    "storage_bucket": "smartstation-652c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916399738082:android:65d91dc42b15d53ce4e2bb",
+        "android_client_info": {
+          "package_name": "com.example.smart_station"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ayO24u5RSxVzUCQZMI-uGWME19OV9fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
